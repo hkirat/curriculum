@@ -156,7 +156,7 @@ Upper-division undergraduates / graduate students and professionals focused on *
 - **[IACR ePrint Archive](https://eprint.iacr.org/)** — cryptography papers  
 
 ### Solana Technical Docs
-- **[Architecture Docs](https://docs.solanalabs.com/)** — cluster design, PoH, Sealevel  
+- **[Architecture Docs](https://docs.anza.xyz/architecture)** — cluster design, PoH, Sealevel  
 - **[SPL Program Library](https://github.com/solana-labs/solana-program-library)** — token, governance, name-service programs  
 - **[Solana Developer Portal](https://solana.com/developers)** — tutorials & resources  
 
